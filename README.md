@@ -27,4 +27,13 @@ but you can at least give the commander credit for trying.
 
 The perks are definitely better as a Henchman than as a Minion. You're even allowed to sleep lying
 down!
+
+Awesome! Commander Lambda was so impressed by your efforts that you've been promoted to personal
+assistant. You'll be helping the Commander directly, which means you'll have access to all of
+Lambda's files -- including the ones on the LAMBCHOP doomsday device. This is the chance you've been
+waiting for. Can you use your new access to finally topple Commander Lambda's evil empire?
+
+As Commander Lambda's personal assistant, you get to deal with all of the paperwork involved in
+running a space station big enough to house the LAMBCHOP. And you thought Bunny HQ had too much
+bureaucracy...
 ```
