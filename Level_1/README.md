@@ -85,6 +85,7 @@ Output:
 0011010010101010110100000001011010100110110011110001110000000010101011100110001011101000000001111011
 0010100010000000111000100000101011101111000000100110101010110110
 
-Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit
-your answer. If your solution passes the test cases, it will be removed from your home folder.
+Use verify [file] to test your solution and see how it does. When you are finished editing your
+code, use submit [file] to submit your answer. If your solution passes the test cases, it will be
+removed from your home folder.
 ```
