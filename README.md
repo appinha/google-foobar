@@ -36,4 +36,7 @@ waiting for. Can you use your new access to finally topple Commander Lambda's ev
 As Commander Lambda's personal assistant, you get to deal with all of the paperwork involved in
 running a space station big enough to house the LAMBCHOP. And you thought Bunny HQ had too much
 bureaucracy...
+
+One of these days you're going to manage to glimpse Commander Lambda's password over their shoulder.
+But the Commander is very careful about security and you haven't managed it yet...
 ```
