@@ -2,7 +2,9 @@
 
 My solutions for Google's foobar challenge.
 
-![Screenshot of Google's foobar home page](imgs/screenshot.png)
+![Screenshot of Google's foobar invitation](imgs/invitation.png)
+
+![Screenshot of Google's foobar home page](imgs/welcome.png)
 
 ## Journal
 
