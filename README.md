@@ -39,4 +39,13 @@ bureaucracy...
 
 One of these days you're going to manage to glimpse Commander Lambda's password over their shoulder.
 But the Commander is very careful about security and you haven't managed it yet...
+
+Who the heck puts clover and coffee creamer in their tea? Commander Lambda, apparently. When you
+signed up to infiltrate the organization you didn't think you'd get such an up-close and personal
+look at these more... unusual tastes.
+
+Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's
+one small problem: the LAMBCHOP was a wool-y important part of the space station, and when you blew
+it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the bunny
+workers and escape before the entire thing explodes?
 ```
