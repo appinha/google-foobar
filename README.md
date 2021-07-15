@@ -50,4 +50,11 @@ Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny P
 one small problem: the LAMBCHOP was a wool-y important part of the space station, and when you blew
 it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the bunny
 workers and escape before the entire thing explodes?
+
+There are a lot of difficult things about being undercover as Commander Lambda's personal assistant,
+but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
+
+Was that the sound of the spa facility imploding? You say a mournful mental goodbye to its sauna and
+massage tables. It's too bad - after all this scrambling, you really could use a nice relaxing day
+at the spa.
 ```
